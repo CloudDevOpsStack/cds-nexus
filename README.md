@@ -1,6 +1,6 @@
 # techo-nexus
 
-To run, binding the exposed port 13020 to the host.
+To run, binding the exposed port 13020(YOURLOCALPORT) to the host.
 
 ```
 $ docker run -d -p 13020:8081 --name nexus <<IMAGE_NAME>>
